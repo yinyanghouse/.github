@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The [Yin Yang House](https://yinyanghouse.com/) is a Chinese Medicine / Acupuncture Community Networking and Informational Site.
+<img src="https://github.com/yinyanghouse/yyhmedia/blob/main/yinyanghouse-main-logo.png" width="300" align="right">The [Yin Yang House](https://yinyanghouse.com/) is a Chinese Medicine / Acupuncture Community Networking and Informational Site.
 
 The Most Read Theory Sections:
 - [Acupuncture Points](https://yinyanghouse.com/theory/acupuncturepoints/locations_theory_and_clinical_applications/)
